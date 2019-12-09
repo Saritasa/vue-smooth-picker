@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      "github:gnklv/vue-smooth-picker",
+      "C:\\Projects\\LakeOrivilleFrontend"
+    ]
+  ],
+  "_from": "github:gnklv/vue-smooth-picker",
+  "_id": "vue-smooth-picker@github:gnklv/vue-smooth-picker#effc5e260be290e10f58fbfa48dce06edef95c7b",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/vue-smooth-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:gnklv/vue-smooth-picker",
+    "rawSpec": "github:gnklv/vue-smooth-picker",
+    "saveSpec": "github:gnklv/vue-smooth-picker",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:gnklv/vue-smooth-picker#effc5e260be290e10f58fbfa48dce06edef95c7b",
+  "_spec": "github:gnklv/vue-smooth-picker",
+  "_where": "C:\\Projects\\LakeOrivilleFrontend",
+  "author": {
+    "name": "Salam Hiyali"
+  },
+  "bugs": {
+    "url": "https://github.com/hiyali/vue-smooth-picker/issues"
+  },
+  "dependencies": {
+    "vue": "^2.5.2"
+  },
+  "description": "A vue2 data picker that like native datetime picker",
+  "devDependencies": {
+    "autoprefixer": "^6.4.0",
+    "babel-core": "^6.0.0",
+    "babel-eslint": "^7.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-register": "^6.0.0",
+    "cross-env": "^3.1.3",
+    "css-loader": "^0.25.0",
+    "eslint": "^3.7.1",
+    "eslint-config-standard": "^6.1.0",
+    "eslint-config-vue": "^2.0.1",
+    "eslint-friendly-formatter": "^2.0.5",
+    "eslint-loader": "^1.5.0",
+    "eslint-plugin-html": "^1.3.0",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1",
+    "eslint-plugin-vue": "^1.0.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "friendly-errors-webpack-plugin": "^1.1.2",
+    "function-bind": "^1.0.2",
+    "html-webpack-plugin": "^2.8.1",
+    "http-proxy-middleware": "^0.17.2",
+    "imports-loader": "^0.7.0",
+    "inject-loader": "^2.0.1",
+    "json-loader": "^0.5.4",
+    "poststylus": "^0.2.3",
+    "rucksack-css": "^0.9.1",
+    "shelljs": "^0.7.4",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.5.1",
+    "url-loader": "^1.0.1",
+    "vue-loader": "^10.3.0",
+    "vue-template-compiler": "^2.5.2",
+    "webpack": "^1.14.0",
+    "webpack-dashboard": "^2.0.0",
+    "webpack-dev-middleware": "^1.8.3",
+    "webpack-hot-middleware": "^2.12.2",
+    "webpack-merge": "^0.14.1"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "files": [
+    "dist/*",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/hiyali/vue-smooth-picker#readme",
+  "keywords": [
+    "vue-smooth-picker",
+    "Vue",
+    "picker",
+    "plugin"
+  ],
+  "license": "MIT",
+  "main": "dist/smooth-picker.js",
+  "name": "vue-smooth-picker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiyali/vue-smooth-picker.git"
+  },
+  "version": "0.3.9"
+}
